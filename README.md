@@ -33,7 +33,7 @@ images:
 ![Screen Shot 2022-11-16 at 10 11 06 PM](https://user-images.githubusercontent.com/110577068/202370600-36860b6a-aec8-4449-866e-716c7ceb3ad5.png)
 
 ![Screen Shot 2022-11-16 at 10 12 54 PM](https://user-images.githubusercontent.com/110577068/202370645-b3787b38-73f4-4f9f-a097-209c363aabe2.png)
-![Screen Shot 2022-11-16 at 10 15 51 PM](https://user-images.githubusercontent.com/110577068/202370740-2702b020-01ef-4ab3-8d47-89fcb526f54f.png)
+![Screen Shot 2022-11-16 at 10 16 49 PM](https://user-images.githubusercontent.com/110577068/202370901-ceb4226c-93ae-4093-864a-7d7f070d8628.png)
 
 
 
